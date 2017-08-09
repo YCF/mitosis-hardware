@@ -1,2 +1,4 @@
-# mitosis-hardware
-Hardware design files for the Mitosis keyboard
+# mitosis-hardware-plus
+Hardware design files for the Mitosis keyboard modify edition.
+
+***Acrylic case friendly.***
